@@ -13,12 +13,12 @@ BlackEDT-Server is the server-side application for BlackEDT, a calendar applicat
 To install the requirements for BlackEDT-Server, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `npm install`.
-3. Start the server using `npm start`.
+2. Install the required dependencies using `bun install`.
+3. Start the server using `bun start`.
 
 ## Usage
 
-You can launch the server via `npm start` or `node .`.
+You can launch the server via `bun start` or `bun .`.
 
 You can also set the listening port of the WebSocket in `index.js`.
 
